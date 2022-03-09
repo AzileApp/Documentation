@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Welcome!](README.md)
-* [Quick Start](quick-start.md)
+* [Azile Documentation](README.md)
 
 ## Reference
 
 * [API Reference](reference/api-reference/README.md)
   * [Flame](reference/api-reference/flame.md)
-  * [Users](reference/api-reference/users.md)

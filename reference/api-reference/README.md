@@ -14,8 +14,8 @@ Flame is the endpoint for discord webhooks
 
 Everything related to users:
 
-{% content-ref url="users.md" %}
-[users.md](users.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}

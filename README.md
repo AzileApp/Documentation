@@ -1,21 +1,13 @@
-# Welcome!
+# Azile Documentation
 
-## Welcome to MyAPI
+## Welcome to Azile Documentation
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+You are able to how azile apis work.
 
-## Want to jump right in?
-
-Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
-
-{% content-ref url="quick-start.md" %}
-[quick-start.md](quick-start.md)
-{% endcontent-ref %}
-
-## Want to deep dive?
+## Visit out API documentations
 
 Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
 
-{% content-ref url="reference/api-reference/" %}
-[api-reference](reference/api-reference/)
+{% content-ref url="reference/api-reference/flame.md" %}
+[flame.md](reference/api-reference/flame.md)
 {% endcontent-ref %}
