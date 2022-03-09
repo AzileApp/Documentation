@@ -40,7 +40,7 @@ Webhook Token
 
 
 
-{% swagger baseUrl="https://flame.azile.app" method="post" path="/api/webhooks/:id/:token" summary="Sends webhook request." %}
+{% swagger baseUrl="https://flame.azile.app" method="post" path="/api/webhooks/:id/:token" summary="Sends webhook request" %}
 {% swagger-description %}
 
 {% endswagger-description %}
